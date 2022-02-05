@@ -18,6 +18,9 @@ DefaultContentLanguage: zh-cn
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
+relativeURLs: true
+uglyURLs: true
+
 permalinks:
     post: /p/:slug/
     page: /:slug/
