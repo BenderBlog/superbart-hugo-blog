@@ -12,13 +12,13 @@ menu:
 
 ## 前卫摇滚相关
 
-[A Trick of the Tail - Genesis](/p/genesis-a-trick-of-the-tail-听后感/)  
+[A Trick of the Tail - Genesis](/p/a-trick-of-the-tail-review/)  
 我最喜欢的Genesis专辑，个人认为是进入前卫摇滚殿堂的敲门砖。
 
-[Islands - King Crimson](/p/king-crimson-islands-听后感/)  
+[Islands - King Crimson](/p/islands-review/)  
 古典与爵士的融合，慵懒的感觉。
 
-[Embodiment of Scarlet Devil - Gensokyo Band](/p/the-embodiment-of-scarlet-devil专辑推广材料/)  
+[Embodiment of Scarlet Devil - Gensokyo Band](/p/gensokyo-band-promotion-file/)  
 嘿嘿嘿，我听完了，虽然觉得可爱，也不可能是东方粉丝滴。
 
 [Ommadawn - Mike Oldfield](https://www.discogs.com/master/16108-Mike-Oldfield-Ommadawn)  
