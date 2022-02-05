@@ -1,8 +1,9 @@
 +++
 title = "过年了，给大家回复弹幕，然后瞎扯两句"
+slug = "Reading Reviews"
 description = "各位过年快乐"
 date = "2021-02-12"
-image = "https://benderblog.github.io/picture/Reading%20Reviews/Cover.png"
+image = "Cover.jpg"
 license = "Licensed under CC BY-ND 4.0"
 categories = [
     "Random"

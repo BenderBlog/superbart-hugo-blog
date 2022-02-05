@@ -1,8 +1,9 @@
 +++
 title = "我的一加8T刷机失败记录"
+slug = "Failure on Flash OnePlus 8T"
 description = "我的第一篇博文，刷机的痛苦体验"
 date = "2021-02-03"
-image = "https://benderblog.github.io/picture/Failure%20on%20Flash%20OnePlus%208T/error.png"
+image = "error.png"
 categories = [
     "Technology"
 ]
@@ -22,12 +23,12 @@ tags = [
 
 不过官方论坛上有教程，那自然是得一顿操作啦。可惜呢......  
 
-![这个是我在Windows下的第二次失败，第一次是在Linux下的](https://benderblog.github.io/picture/Failure%20on%20Flash%20OnePlus%208T/error.png)
+![这个是我在Windows下的第二次失败，第一次是在Linux下的](error.png)
 
 开始是Linux系统下失败，然而在Windows下也失败了。我暂且认为是开发者用的是256G的，可我的是128G的原因吧。  
 
 无论如何，我必须得救砖了。然而救砖软件是Windows独占，我就启动了该死的Windows虚拟机，手机完全关机并同时按住上下键，映射到虚拟机（设备名字开头是高通啥的）。结果报错，自动检测DDR失败。我想是因为虚拟机映射有问题，所以我直接重装了该死的Windows（我上期翻译的视频字幕文件没了，其他的因为备份了，还在）来救砖。有一次电脑不认，我按住了上下键和电源键来强制开机。  
 
-![注意红箭头指示的地方，一定先要选上！否则救砖失败，手机变成假砖](https://benderblog.github.io/picture/Failure%20on%20Flash%20OnePlus%208T/rescue.png)
+![注意红箭头指示的地方，一定先要选上！否则救砖失败，手机变成假砖](rescue.png)
 
 救砖成功了，我又在Windows下尝试了好几遍fastboot，全部失败:-P 我看等成熟的卡刷可以实现的时候再说吧。

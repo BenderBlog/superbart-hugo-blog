@@ -1,8 +1,9 @@
 +++
 title = "archinstall 初体验 (省流文字版)"
+slug = "Experience of Archinstall"
 description = "纯命令行安装Arch Linux的时代结束了？"
 date = "2021-05-01"
-image = "https://benderblog.github.io/picture/Experience%20of%20Archinstall/Cover.jpg"
+image = "Cover.jpg"
 categories = [
     "Technology"
 ]
@@ -29,7 +30,7 @@ tags = [
 对了，archinstall是一个框架，任何会用python的人都可以用它写自己的安装脚本。  
 我们还可以添加其他的安装包，这里我安装了两个Virtualbox客户机的模块。  
 然后程序给出了一个总结，总觉得应该写成一个让人好明白的东西，而不是这个类似bash的配置文件。注意没有引导程序选择，因为只能选择systemd-boot，侧面体现其仍在开发。  
-![最后总结页面](https://benderblog.github.io/picture/Experience%20of%20Archinstall/archinstall_summary.png)
+![最后总结页面](archinstall_summary.png)
 最后重启后，根据我选择的GNOME环境，程序安装并配置好了，不过VBOX增强工具没有激活，需要在上述安装完成后arch-chroot一下。  
 ## 小结
 这个工具目前处于一个鸡肋的状态。

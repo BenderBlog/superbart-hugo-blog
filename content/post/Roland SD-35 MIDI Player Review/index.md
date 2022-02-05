@@ -1,8 +1,9 @@
 +++
 title = "Roland SD-35 MIDI 播放器评测"
+slug = "Roland SD-35 MIDI Player Review"
 description = "要是巡演的话，估计音乐家都要带些软盘了"
 date = "2021-09-05"
-image = "https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/SD-35%20Front.jpg"
+image = "Front.jpg"
 categories = [
     "Technology"
 ]
@@ -13,7 +14,7 @@ tags = [
 
 我一直想要一个硬音源，所以我搞来了这台Roland SD-35 MIDI播放器。因为这是闲鱼上我所找到的最便宜，也是最具特点的Roland MIDI设备。这台机器吸引我的地方，就是其能播放软盘里的MIDI音乐。不过这个机器当音源是真的不行，不过情有可原。接下来，我给大家详细介绍这个机器。  
 
-![开学才一周，桌面就很乱了:-P](https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/SD-35%20Front.jpg)
+![开学才一周，桌面就很乱了:-P](Front.jpg)
 
 ## Part 1：历史背景
 
@@ -21,7 +22,7 @@ Roland公司在1991发布了Roland SC-55 MIDI硬音源，将高品质MIDI音源�
 
 在1993年，SD-35 MIDI播放器问世，本质上就是SC-50，不过加了一个软盘播放器。它还有一个姐妹型号，SB-55。  
 
-![上图来源：Wikipedia "Roland Sound Canvas"](https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/Wikipedia%20Roland%20Sound%20Canvas%20Sheet.jpg)
+![上图来源：Wikipedia "Roland Sound Canvas"](WikipediaSheet.jpg)
 
 ## Part 2：作为一个MIDI播放器
 
@@ -29,7 +30,7 @@ Roland公司在1991发布了Roland SC-55 MIDI硬音源，将高品质MIDI音源�
 
 这个机器的主打功能是软盘MIDI播放和MIDI信号录制，所以这两个我就不说了。前面的使用完美，后面的我没有条件测试。而后者呢，算是这个机器的弱项。经常传输信号的时候，机器报缓存已满。根据说明书，机器由于传入太多的MIDI信号而无法处理。说明书还建议把Soft Thru关掉，因为这玩意占着资源，但这样我就听不到音乐了。我根据群友的建议，用TMIDI播放器调整了传输速率，但还是不行。这类情况在传输一些复杂的MIDI信号的时候，十分明显。  
 
-![bFL = buffer FULL](https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/SD-35%20Buffer%20Full%20Error.jpg)
+![bFL = buffer FULL](Buffer_Full_Error.jpg)
 
 这个机器，由于本质是SC-55，所以合成的音效嘛，就是SC-55的样子。但是这也带来了一个问题，就是对于一些面向SC-88编写的MIDI音乐，可能合成会有问题。我在用机器播放《东方红魔乡》的MIDI音乐（GS标准，面向SC88Pro编写）时，经常看到地址报错，而且有一首歌，把最后部分的长音小号给合成错了。  
 
@@ -41,11 +42,11 @@ Roland公司在1991发布了Roland SC-55 MIDI硬音源，将高品质MIDI音源�
 
 根据上面的用途和说明书上的提示，我觉得这个机器不是面向MIDI音乐编写/播放设计的，而是面向现场播放用途设计的。这里我放上该机器的后面板。
 
-![由左至右：输入电平调整 输入声音信号 输出声音信号 控制信号 输出MIDI信号 电源接口 开关](https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/SD-35%20Back.jpg)
+![由左至右：输入电平调整 输入声音信号 输出声音信号 控制信号 输出MIDI信号 电源接口 开关](Back.jpg)
 
 你们可以看到，这里除了MIDI接口，还有两对6.5mm接口。一对接收输入信号，一对向外输出信号。最左侧还有输入电平调节，分别是吉他，麦克风和线缆输入。可见，这个机器可以输入信号，然后和软盘音乐混合后输出。对于做Genesis那样的流行电音来说，还挺有用的呢。
 
-![说明书上关于输入设备的演示](https://benderblog.github.io/picture/Roland%20SD-35%20MIDI%20Player%20Review/Input%20of%20SD-35%20From%20Instruction%20Book.jpg)
+![说明书上关于输入设备的演示](Instruction.jpg)
 
 至于为啥我前面说当音源不行，但是情有可原。一方面，这个机器要录制MIDI的话，一般接的是键盘啥的。键盘我觉得，再怎么折腾，也不会超过三个频道吧，估计它的处理能力也就这样了。另外一个方面，说明书暗示，传入MIDI信号相比软盘播放，机器得处理更多的东西，所以我觉得，可能是算力不够+缓存被砍的原因。  
 
