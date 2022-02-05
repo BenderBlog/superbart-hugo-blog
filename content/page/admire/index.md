@@ -32,7 +32,7 @@ links:
   - title: 同学：wingszeng
     description: 我大一上学期C语言课课代表
     website: https://blog.wingszeng.top/
-    image: https://blog.wingszeng.top/img/avatar.jpg
+    image: https://avatars.githubusercontent.com/u/50052878?v=4
   - title: 网友：墨枫梧桐
     description: 一只会业余无线电技术的猫
     website: https://mfwt.top/
@@ -46,14 +46,17 @@ links:
     website: https://wyh-de-house.top/
     image: https://wyh-de-house.top/images/avatar.jpg
   - title: 同学：simoxdcs
-    description: 看样子，他手中手握丰富的计算资源
+    description: 看样子大佬都是喜欢东方的人
     website: https://simoxdcs.github.io/
     image: https://simoxdcs.github.io/images/avatar.jpg
   - title: 同学：Dimole
     description: 看样子，他手中手握丰富的计算资源
     website: https://blog.dml.ink/
     image: https://i.loli.net/2020/10/19/1bhTxU5X3wd6yMQ.jpg
-
+  - title: 网友：zhouym
+    description: 看上去在摸鱼，实际上呢......
+    website: https://zhouym.tech
+    image: https://avatars.githubusercontent.com/u/26868483?v=4
 
 menu:
     main:

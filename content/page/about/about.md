@@ -2,7 +2,6 @@
 title: 关于我
 date: '2021-11-01'
 license: Licensed under CC BY-ND
-lastmod: '2022-02-03'
 menu:
     main: 
         weight: -90

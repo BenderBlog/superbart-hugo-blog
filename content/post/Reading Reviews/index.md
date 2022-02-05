@@ -2,7 +2,7 @@
 title = "过年了，给大家回复弹幕，然后瞎扯两句"
 description = "各位过年快乐"
 date = "2021-02-12"
-image = "Cover.jpg"
+image = "https://benderblog.github.io/picture/Reading%20Reviews/Cover.png"
 license = "Licensed under CC BY-ND 4.0"
 categories = [
     "Random"

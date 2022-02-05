@@ -2,7 +2,7 @@
 title = "The Embodiment of Scarlet Devil专辑推广材料"
 description = "嘿嘿嘿，我听完了，虽然觉得可爱，也不可能是东方粉丝滴"
 date = "2021-11-05"
-image = "Gensokyo_Band_Mk1_1.jpg"
+image = "https://benderblog.github.io/picture/Gensokyo%20Band%20Promotion%20File/Cover.jpg"
 categories = [
     "Music"
 ]
@@ -74,7 +74,7 @@ tags = [
 |4. Lunate Elf|A3. Cadence And Cascade|
 |9. Locked Girl ~ The Girl's Sealed Room |A4. In the Wake of the Poseidon|
 |10. The Maid and the Pocket Watch of Blood|B2. Cat Food|
-|12. The Young Descendant of Tepes|B3a. The Devil's Triangle|
+|12. The Young Descendant of Tepes|B3a. The Devil&#39;s Triangle|
 |13. Septette for a Dead Princess|B3b. Merday Morn|
 |14. The Centennial Festival for Magical Girls|B3c. Hand Of Sceiron|
 |15. U.N. Owen Was Her?|B3d. Garden Of Worm|
@@ -86,9 +86,9 @@ tags = [
 
 不过，我还是不明白她们为啥找我发行。不过我既然有b站帐号，我就给放出来了，看样子反响不错。她们也没再找我，不过他们一开始给的母带上面写着他们叫有些信息，我就根据那个，根据记忆，画了她们的样貌，希望她们还能回来，找我结帐。  
 
-![](Gensokyo_Band_Mk1_1.jpg)  
-![](Gensokyo_Band_Mk1_2.jpg)  
-![](Gensokyo_Band_Mk1_3.jpg)  
+![](https://benderblog.github.io/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-1.jpg)  
+![](https://benderblog.github.io/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-2.jpg)  
+![](https://benderblog.github.io/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-3.jpg)  
 
 补充：有时多瞎想点东西，还是很好的呢:-)希望大家喜欢看这样的音乐评测，可能以后有些音乐专辑，我就引入她们的设定了233
 

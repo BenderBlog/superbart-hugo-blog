@@ -2,7 +2,7 @@
 title = "我的字幕授权协议(兼各种我知道的授权协议介绍)"
 description = "我不想让营销号不劳而获"
 date = "2021-08-02"
-image = "Cover.jpg"
+image = "https://benderblog.github.io/picture/My%20License%20Introduction/Cover.jpg"
 categories = [
     "Random"
 ]

@@ -18,6 +18,9 @@ links:
   - title: Visualgo
     description: 把老师上课讲的玩意再看一遍
     website: https://visualgo.net/zh
+  - title: Creative Commons
+    description: 发布东西前，把帐算清楚了(强烈不推荐各种NC附属协议)
+    website: https://creativecommons.org
   - title: CNR-中央人民广播电台
     description: 中央人民广播电台，目前感觉最有亲近感的官媒了
     website: https://www.cnr.cn
@@ -36,7 +39,7 @@ links:
 
 menu:
     main: 
-        weight: -50
+        weight: -70
         params:
             icon: link
 
