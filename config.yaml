@@ -112,7 +112,7 @@ menu:
               icon: home
         - identifier: older
           name: 老版博客
-          url: https://benderblog.github.io/
+          url: https://legacy.superbart.xyz
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
