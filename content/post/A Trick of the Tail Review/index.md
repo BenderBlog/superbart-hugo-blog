@@ -54,6 +54,6 @@ Entangled中，Steve Hackett的原声吉他弹得十分干净，十分纯洁。�
 [南方翻译纪录片的片段](https://www.bilibili.com/video/BV1NZ4y1p7fM)
 
 ## 彩蛋：我画的Ripples封面
-![右面的是姐姐Remila，左面的是他的妹妹Flandre。姐姐照着魔镜，看到自己的妹妹读着Mad Hatter开的荒诞的茶会而高兴不已。虽然她们俩永远都不会老去，但是姐姐见过的太多了，对妹妹的童真无邪十分羡慕。](https://legacy.superbart.xyz/picture/A%20Trick%20of%20the%20Tail%20Review/Ripples%20(Genesis)%20-%20Remila%20and%20Flandre.jpg)
+![右面的是姐姐Remila，左面的是他的妹妹Flandre。姐姐照着魔镜，看到自己的妹妹读着Mad Hatter开的荒诞的茶会而高兴不已。虽然她们俩永远都不会老去，但是姐姐见过的太多了，对妹妹的童真无邪十分羡慕。](https://s2.loli.net/2021/12/25/Mohjc6LxS7pYlT4.jpg)
 
 如果你了解东方的话，你很快就能反应过来这两个人的原型是红魔馆的两个主人。但我没有照搬吸血鬼的设定，因为我画的是人啊。还有，我觉得东方里的角色都可以拿过来，稍微修改一下设定，就能给每一首前卫歌曲画一张，这样，我们就能借着东方，宣传前卫摇滚啦。对了，我不太是东方的粉丝，目前真的只对东方里那些女孩子的个性和外观感兴趣......  
