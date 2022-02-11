@@ -209,7 +209,7 @@ $ make LSMOD=$HOME/.config/modprobed.db localmodconfig
 
 我当时没有插上我的光驱，就运行了这个，结果新内核没法读我的光驱:-P
 
-## 我到底配置了啥？———— 给大家看看我改过的内核配置
+## 我到底配置了啥～给大家看看我改过的内核配置
 我上面说过，使用 modprobed-db 的前提是对内核配置有一定了解，至少需要看到选项的时候，脑瓜不疼。(如果你是应付操作系统实验，我看[我们学校的操作系统资料](https://github.com/LevickCG/Happy-SE-in-XDU/tree/master/OS)和[小梦哥哥的实验总结](https://moefactory.com/3041.moe)的步骤，我觉得你要是在虚拟机下直接搞，应该没有问题)  
 所以，我来给大家看一下我的内核配置吧，给大家看看我改了什么。这里我用 `make nconfig` 配置。  
 第一个选项是总体选项，是包括了内核压缩，特定版本号之类的信息。请看xmgg的吧。  
