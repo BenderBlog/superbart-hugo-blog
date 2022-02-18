@@ -40,8 +40,8 @@ tags = [
 <table>
 	<tr>
 		<th rowspan="2">测试次数</th>
-		<th colspan="3">原版zen内核</th>
-		<th colspan="3">自助zen内核</th>
+		<th colspan="3">原版 zen 内核</th>
+		<th colspan="3">自制 zen 内核</th>
 	</tr>
 	<tr>
 		<th>单核成绩</th>
@@ -121,7 +121,7 @@ tags = [
 	<tr>
 		<th>测试次数</th>
 		<th>原版 zen 内核</th>
-		<th>自助 zen 内核</th>
+		<th>自制 zen 内核</th>
 	</tr>
 	<tr>
 		<td>1</td>
