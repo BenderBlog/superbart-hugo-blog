@@ -57,7 +57,24 @@ params:
             default: 如果没有注明，所有文字资料，按照CC BY-SA 4.0授权，图片资料按照CC BY 4.0授权
 
     comments:
-        enabled: false
+        enabled: true
+        provider: waline
+
+        # Waline client configuration see: https://waline.js.org/en/reference/client.html
+        waline:
+            serverURL: https://comments.superbart.xyz/
+            lang:
+            visitor: false
+            emoji:
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+            requiredMeta:
+                - name
+                - email
+                - url
+            placeholder: 留下你的高见
+            locale:
+                admin: Admin
+            copyright: true
 
     widgets:
         enabled:
