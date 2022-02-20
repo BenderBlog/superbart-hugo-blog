@@ -150,9 +150,9 @@ tags = [
 好了，进入我这篇文章的宝藏部分捏。
 
 ## 如何加速内核编译～使用 modprobed-db 精简驱动模块
-[modprobed-db](https://github.com/graysky2/modprobed-db)是一个 bash 脚本，他能侦测你系统目前所使用的模块，并记录下来。在编译内核的时候，程序只会编译我们使用过的驱动模块，加速编译速度，减少内核体积。
+[modprobed-db](https://github.com/graysky2/modprobed-db) 是一个 bash 脚本，他能侦测你系统目前所使用的模块，并记录下来。在编译内核的时候，程序只会编译我们使用过的驱动模块，加速编译速度，减少内核体积。
 
->**注意**：使用这个软件，可能会精简驱动过头，导致使用不便。请各位打算使用前，最好稍微了解一下内核配置选项。本人仅在Arch Linux下运行过这个软件，如果你用的是Ubuntu等系统，使用有问题的话，请跟我说一下。
+>**注意**：使用这个软件，可能会精简驱动过头，导致使用不便。请各位打算使用前，最好稍微了解一下内核配置选项。本人仅在 Arch Linux 下运行过这个软件，如果你用的是 Ubuntu 等系统，使用有问题的话，请跟我说一下。
 
 ### 过一下编译内核的一般步骤
 1. 电脑装好编译环境，一般包括 gcc，make 等。Arch Linux 是要安装上 `base-devel` 软件包组和 `gcc` 。
@@ -166,7 +166,7 @@ $ cd linux-stable
 $ make nconfig # 命令行界面配置
 $ make xconfig # 图形化界面配置(使用 QT )
 ```
->**注意**: 很多教程是用make config配置内核，本人不推荐。界面太原始了算了，在Arch Wiki上面被标记为"被nconfig取代"
+>**注意**: 很多教程是用make config配置内核，本人不推荐。界面太原始就算了，在 Arch Wiki 上面被标记为"被 nconfig 取代"
 
 ![nconfig长这样](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Power%20Preformance.jpg)
 
@@ -212,7 +212,7 @@ $ make LSMOD=$HOME/.config/modprobed.db localmodconfig
 ## 我到底配置了啥～给大家看看我改过的内核配置
 我上面说过，使用 modprobed-db 的前提是对内核配置有一定了解，至少需要看到选项的时候，脑瓜不疼。(如果你是应付操作系统实验，我看[我们学校的操作系统资料](https://github.com/LevickCG/Happy-SE-in-XDU/tree/master/OS)和[小梦哥哥的实验总结](https://moefactory.com/3041.moe)的步骤，我觉得你要是在虚拟机下直接搞，应该没有问题)  
 所以，我来给大家看一下我的内核配置吧，给大家看看我改了什么。这里我用 `make nconfig` 配置。  
-第一个选项是总体选项，是包括了内核压缩，特定版本号之类的信息。请看xmgg的吧。  
+第一个选项是总体选项，是包括了内核压缩，特定版本号之类的信息。请看 xmgg 的吧。  
 ![默认界面](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Intro%20Config.jpg)
 这是默认界面，配置程序给了我们一些选项。下面的功能键中，F2可以查看配置选项的详细信息，F9可以搜索配置选项。  
 ![处理器类型和特性](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Processor%20Config.jpg)
@@ -229,7 +229,7 @@ $ make LSMOD=$HOME/.config/modprobed.db localmodconfig
 虽然自己编译内核，没有使游戏性能有很大提升😶  
 但是我由此得到了提升内核编译的一个途径，这要将来节省时间~~卷过别人~~不就很方便了吗🥰  
 实际上我还给内核打上了[中文补丁](https://github.com/zhmars/cjktty-patches)，不过网上很多教程，我就不在这说了。给大家个[链接](https://zhuanlan.zhihu.com/p/375460344)看看吧。没记错命令是 `patch -Np1 < 补丁文件` 。  
-我还使用了 Arch Linux 的包管理工具，让整个过程更简单。具体看[这个](https://wiki.archlinux.org/title/Kernel/Traditional_compilation)。
+我还使用了 Arch Linux 的包管理工具，让整个过程更简单。具体看[这个](https://wiki.archlinux.org/title/Kernel/Arch_Build_System)。
 
 ## 推荐阅读
 [Arch Wiki提供的编译内核指南(多系统适用哦)](https://wiki.archlinux.org/title/Kernel/Traditional_compilation)  

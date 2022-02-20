@@ -10,7 +10,7 @@ menu:
 
 我的一大爱好，听音乐。走过路过不要错过，绝对可以说是不专业的乐评人了:-)
 
-## 前卫摇滚相关
+前卫摇滚相关
 
 [A Trick of the Tail - Genesis](/p/a-trick-of-the-tail-review/)  
 我最喜欢的Genesis专辑，个人认为是进入前卫摇滚殿堂的敲门砖。
@@ -30,7 +30,10 @@ menu:
 [The Six Wives Of Henry VIII - Rick Wakeman](https://www.discogs.com/master/57940-Rick-Wakeman-The-Six-Wives-Of-Henry-VIII)  
 老渣男的故事。
 
-## 不气盛叫年轻人吗
+[In The Land Of Grey And Pink – Caravan](https://www.discogs.com/master/11733-Caravan-In-The-Land-Of-Grey-And-Pink)  
+这要是小清新的话，现在所有的清新都能把我腻死。
+
+不气盛叫年轻人吗
 
 [Animals - Pink Floyd](https://www.discogs.com/master/10370-Pink-Floyd-Animals)  
 什么，你对社会上某些德不配位老头子很生气，我也是。
@@ -47,12 +50,13 @@ menu:
 [Back in Black - AC/DC](https://www.discogs.com/master/8471-ACDC-Back-In-Black)  
 经典语录：让我用刀切开你的蛋糕。
 
-[Burn - Deep Purple Mk III](https://www.discogs.com/master/2534-Deep-Purple-Burn)  
-把你寒冷的心燃烧起来吧！
+其他
 
-## 其他
 [Deep Purple In Rock - Deep Purple Mk II](https://www.discogs.com/master/1439-Deep-Purple-Deep-Purple-In-Rock)  
 重金属萌芽时期，旋律与炫技特征明显。
+
+[Blind Faith - Blind Faith](https://www.discogs.com/release/1139803-Blind-Faith-Blind-Faith)
+除了封面设计太差，其他的接近完美，放得开也能收的回来。(封面是美国发行时的和谐版)
 
 [Layla and Other Assorted Loved Songs - Derek and the Dominos](https://www.discogs.com/master/76678-Derek-And-The-Dominos-Layla-And-Other-Assorted-Love-Songs)  
 传说听完这张专辑，别人的女朋友就是你的了。
