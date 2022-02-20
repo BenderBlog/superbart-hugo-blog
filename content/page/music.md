@@ -55,7 +55,7 @@ menu:
 [Deep Purple In Rock - Deep Purple Mk II](https://www.discogs.com/master/1439-Deep-Purple-Deep-Purple-In-Rock)  
 重金属萌芽时期，旋律与炫技特征明显。
 
-[Blind Faith - Blind Faith](https://www.discogs.com/release/1139803-Blind-Faith-Blind-Faith)
+[Blind Faith - Blind Faith](https://www.discogs.com/release/1139803-Blind-Faith-Blind-Faith)  
 除了封面设计太差，其他的接近完美，放得开也能收的回来。(封面是美国发行时的和谐版)
 
 [Layla and Other Assorted Loved Songs - Derek and the Dominos](https://www.discogs.com/master/76678-Derek-And-The-Dominos-Layla-And-Other-Assorted-Love-Songs)  
