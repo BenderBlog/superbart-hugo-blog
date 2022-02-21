@@ -127,14 +127,6 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-        - identifier: older
-          name: 老版博客
-          url: https://legacy.superbart.xyz
-          weight: -100
-          params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: false
-              icon: link
     
     social:
         - identifier: github
@@ -154,6 +146,13 @@ menu:
           url: mailto:superbart_chen@qq.com
           params:
             icon: mail
+
+        - identifier: older
+          name: Old Blog
+          url: https://legacy.superbart.xyz
+          weight: -100
+          params:
+              icon: link
 
 related:
     includeNewer: true
