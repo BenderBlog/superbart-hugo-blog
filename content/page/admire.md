@@ -44,8 +44,8 @@ links:
     image: https://avatars.githubusercontent.com/u/10166367?v=4
   - title: 同学：Pierre
     description: 我是他的迷弟
-    website: https://wyh-de-house.top/
-    image: https://wyh-de-house.top/images/avatar.jpg
+    website: http://wyh01.top/
+    image: http://wyh01.top/images/avatar.jpg
   - title: 同学：simoxdcs
     description: 看样子大佬都是喜欢东方的人
     website: https://simoxdcs.github.io/

@@ -7,7 +7,7 @@ links:
     website: https://wiki.archlinux.org/
   - title: Arch Linux 中文社区
     description: 有软件源的，好多生活必需品
-    website: https://www.typescriptlang.org
+    website: https://www.archlinuxcn.org
   - title: pkgs.org - 为Linux和Unix系统提供软件包
     description: 可以理解为Linux世界的软件批发市场
     website: https://www.pkgs.org
