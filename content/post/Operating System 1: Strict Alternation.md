@@ -1,3 +1,18 @@
++++
+title = "操作系统：严格轮换机制"
+slug = "Operating System 1: Strict Alternation"
+description = "仅供参考，我不知道对不对"
+date = "2021-02-03"
+image = "https://legacy.superbart.xyz/picture/Random/Gunner%20from%20Quake%20II.png"
+categories = [
+    "Technology"
+]
+tags = [
+    "操作系统"
+]
++++
+
+
 # 操作系统：严格轮换机制
 
 ## 要求
