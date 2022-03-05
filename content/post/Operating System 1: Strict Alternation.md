@@ -38,8 +38,8 @@ void * th(void *p)
 	{	
 		while(turn!=1) 			/*loop*/;
 		sleep(1);a=0;			// Access Critical Region
-		turn=0;					// Change mark.
 		printf("a=%d haha\n",a);// Stop access.
+		turn=0;					// Change mark.
 	}
 }
 
@@ -54,10 +54,12 @@ int main()
 	{
 		while(turn!=0)			/*loop*/;
 		sleep(1);a=1;			// Access Critical Region.
-		turn=1;					// Change mark.
 		printf("a=%d hehe\n",a);// Stop access.
+		turn=1;					// Change mark.
+		
 	}
 }
+
 ```
 ## 编译运行
 ```bash
