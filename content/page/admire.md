@@ -53,7 +53,7 @@ links:
   - title: 同学：Dimole
     description: 看样子，他手中手握丰富的计算资源
     website: https://blog.dml.ink/
-    image: https://i.loli.net/2020/10/19/1bhTxU5X3wd6yMQ.jpg
+    image: https://libravatar.dml.ink/avatar/9831d81177bed96729982c30c7ae41f8?size=512
   - title: 网友：zhouym
     description: 看上去在摸鱼，实际上呢......
     website: https://zhouym.tech
