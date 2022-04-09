@@ -1,4 +1,4 @@
-baseurl: https://benderblog.github.io
+baseurl: https://www.superbart.xyz
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -106,7 +106,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: dark
+        default: light
 
     imageProcessing:
         cover:

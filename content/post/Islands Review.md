@@ -13,6 +13,71 @@ tags = [
 ]
 +++
 
+<p>
+<div id="aplayer"></div>
+<script type="text/javascript">
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        mini: false,            <!-- 不启用迷你播放模式 -->
+        autoplay: false,        <!-- 音频不自动播放 -->
+        theme: '#2A2E32',       <!-- 主题色 -->
+        loop: 'all',            <!-- 音频循环播放, 可选值: 'all', 'one', 'none'-->
+        order: 'list',          <!-- 音频循环顺序, 可选值: 'list', 'random'-->
+        preload: 'auto',        <!-- 预加载，可选值: 'none', 'metadata', 'auto'-->
+        volume: 0.7,            <!-- 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效-->
+        mutex: true,            <!-- 互斥，阻止多个播放器同时播放，当前播放器播放时暂停其他播放器 -->
+        listFolded: false,      <!-- 列表默认折叠， false表示不折叠-->
+        listMaxHeight: '300px', <!-- 列表最大高度，超出此高度将有滚动条-->
+        lrcType: 0,             <!-- 歌词类型，0表示不显示歌词-->
+        audio: [
+            {
+                name: 'Formentera Lady',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/01-Formentera Lady.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            },
+            {
+                name: 'Sailor\'s Tale',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/02-Sailor\'s Tale.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            },
+            {
+                name: 'The Letters',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/03-The Letters.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            },
+            {
+                name: 'Ladies of the Road',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/04-Ladies of the Road.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            },
+            {
+                name: 'Prelude: Song of the Gulls',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/05-Prelude: Song of the Gulls.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            },
+            {
+                name: 'Islands',                         <!-- 歌曲名称-->
+                artist: 'King Crimson',                       <!-- 歌曲作者-->
+                url: 'https://legacy.superbart.xyz/music/King Crimson/Islands/06-Islands.ogg',     <!-- 歌曲路径-->
+                cover: 'https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/f2/27/0a/f2270ab1-5085-830a-e572-22eb54d8925a/source/600x600bb.jpg',                          <!-- 歌曲封面图片-->
+                theme: '#46718b'                       <!-- 选中歌曲的主题-->
+            }
+        ]
+    });
+</script>
+</p>
+
+
 在1969年King Crimson发表了富有创造性的首专之后，由于各乐队成员间之间创作理念的不同，乐队分崩离析。在短短两年内产生了三张不同风格的专辑。其中第二张In the Wake of Posidon与首专过于相像，虽然好听，但是缺少创意；第三张Lizard难以让我接受，主要是其中Peter Sinfield营造的轻浮气息。而今天我要给大家介绍的第四张专辑，Island，虽然实验性是这几张中最差的，概念性也不怎么好，但是可欣赏度是这几张中最好的。  
 
 这张专辑仅有的实验性部分，就是吹奏乐器的大部分使用，虽然在前一张专辑中已经这样了，但是鉴于上一专的轻浮和乐队成员间的合作不愉快，我觉得效果不如这个好。这点尤其在The Letters中明显体现了出来。在The Letters中，在情人给妻子写下了毒舌信后，上来的萨克斯沉重有力，与前面平静的声音形成了鲜明的对比，体现了情人收到信后沉重无比的心。之后的萨克斯演奏逐渐由混乱到平静和坚定，体现了妻子的伤心难受和之后的坚强面对。在这首歌中，萨克斯的吹奏对这首歌气氛的渲染有十分明显的影响。而在其他歌曲中，吹奏乐器更是音乐中不可或缺的一部分，无论是Song of Gulls中悠扬的长笛，Sailor's Tail中萨克斯代表着大风，还是Islands中长号的尾奏，都让我印象深刻。  

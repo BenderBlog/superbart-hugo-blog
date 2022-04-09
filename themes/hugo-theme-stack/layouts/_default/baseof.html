@@ -3,6 +3,9 @@
     <head>
         {{- partial "head/head.html" . -}}
         {{- block "head" . -}}{{ end }}
+        <!-- require APlayer -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
     </head>
     <body class="{{ block `body-class` . }}{{ end }}">
         {{- partial "head/colorScheme" . -}}
