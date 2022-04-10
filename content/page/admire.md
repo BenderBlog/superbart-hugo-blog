@@ -53,11 +53,15 @@ links:
   - title: 同学：Dimole
     description: 看样子，他手中手握丰富的计算资源
     website: https://blog.dml.ink/
-    image: https://libravatar.dml.ink/avatar/9831d81177bed96729982c30c7ae41f8?size=512
+    image: https://libravatar.dml.ink/avatar/9831d81177bed96729982c30c7ae41f8
   - title: 网友：zhouym
     description: 看上去在摸鱼，实际上呢......
     website: https://zhouym.tech
     image: https://avatars.githubusercontent.com/u/26868483?v=4
+  - title: 同学：有一只卷毛
+    description: 有一只卷毛：可惜本人不是毛茸茸的可爱 233
+    website: https://www.yuque.com/xdu_curly
+    image: https://i0.hdslb.com/bfs/face/6713bbfd1e801c0bf47b0666a00626b1a46f25f2.jpg
 
 menu:
     main:
