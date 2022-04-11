@@ -119,9 +119,9 @@ PCB (Process Control Block)：进程控制块。重点包括以下东西：
 
 ### 一道计算题
 
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-1.png)
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-2.png)
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-3.png)
+![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-1.png)  
+![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-2.png)  
+![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-3.png)  
 ![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-A.png)
 
 ## 进程间通信
