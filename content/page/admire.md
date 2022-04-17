@@ -17,11 +17,11 @@ links:
   - title: 同学：inkhog
     description: 一个单词说明一切：C0tql
     website: https://www.sen0r.me/
-    image: https://sen0r.me/57040318.png
+    image: https://avatars.githubusercontent.com/u/57040318?v=4
   - title: 同学：noobwei
     description: C0教会大主教
     website: https://www.noobwei.xyz/
-    image: https://i.bmp.ovh/imgs/2022/01/4d2fd5daa1c9e02f.png
+    image: https://avatars.githubusercontent.com/u/70512842?v=4
   - title: 同学：Ri
     description: 具有21级C0的潜质
     website: https://www.raay.xyz/
@@ -34,7 +34,7 @@ links:
     description: 我大一上学期C语言课课代表
     website: https://blog.wingszeng.top/
     image: https://avatars.githubusercontent.com/u/50052878?v=4
-  - title: 网友：墨枫梧桐
+  - title: 网友：墨枫梧桐Leo
     description: 一只会业余无线电技术的猫
     website: https://mfwt.top/
     image: https://mfwt.top/img/avatar.png
@@ -53,15 +53,23 @@ links:
   - title: 同学：Dimole
     description: 看样子，他手中手握丰富的计算资源
     website: https://blog.dml.ink/
-    image: https://libravatar.dml.ink/avatar/9831d81177bed96729982c30c7ae41f8
+    image: https://avatars.githubusercontent.com/u/24828354?v=4
   - title: 网友：zhouym
     description: 看上去在摸鱼，实际上呢......
     website: https://zhouym.tech
     image: https://avatars.githubusercontent.com/u/26868483?v=4
   - title: 同学：有一只卷毛
-    description: 有一只卷毛：可惜本人不是毛茸茸的可爱 233
+    description: 可惜本人不是毛茸茸的可爱:-)
     website: https://www.yuque.com/xdu_curly
     image: https://i0.hdslb.com/bfs/face/6713bbfd1e801c0bf47b0666a00626b1a46f25f2.jpg
+  - title: 同学：Leo Lee
+    description: 哇，人工智能大佬
+    website: https://www.liaoxdu.top/
+    image: https://z3.ax1x.com/2021/08/06/fmjyff.jpg
+  - title: 同学：Frank Lee
+    description: 我到目前仍未感受到他的气场
+    website: http://www.forestlee.top/
+    image: https://avatars.githubusercontent.com/u/71361592?v=4
 
 menu:
     main:

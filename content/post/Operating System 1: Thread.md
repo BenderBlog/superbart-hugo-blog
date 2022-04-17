@@ -119,7 +119,11 @@ PCB (Process Control Block)：进程控制块。重点包括以下东西：
 
 ### 一道计算题
 
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-1.png)  
+By Multilevel Quene Fixed Priority scheduling algorithm, there are 3 priority quenes and 7 processes with following information. Draw the CPU scheduling Gantt chart and complete the following table for the give processes information.
+
+通过多层级队列混合优先级 (Multilevel Quene Fixed Priorty) 调度算法，总共有三个优先级队列和七个进程，信息如下。画出 CPU 调度甘特图，然后根据信息填写最下面的表格。
+
+![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-1.png)
 ![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-2.png)  
 ![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-3.png)  
 ![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-A.png)
