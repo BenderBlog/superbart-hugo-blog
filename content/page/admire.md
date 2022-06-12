@@ -68,11 +68,11 @@ links:
     image: https://z3.ax1x.com/2021/08/06/fmjyff.jpg
   - title: 同学：Frank Lee
     description: 我到目前仍未感受到他的气场
-    website: http://www.forestlee.top/
+    website: https://www.forestlee.top/
     image: https://avatars.githubusercontent.com/u/71361592?v=4
   - title: 同学：Killertimer
     description: 感谢这位带我操作系统比赛
-    website: killtimer0.github.io
+    website: https://killtimer0.github.io
     image: https://killtimer0.github.io/img/avatar.png
 
 menu:
