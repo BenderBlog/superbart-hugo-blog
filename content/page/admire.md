@@ -71,9 +71,9 @@ links:
     website: http://www.forestlee.top/
     image: https://avatars.githubusercontent.com/u/71361592?v=4
   - title: 同学：Killertimer
-    description：感谢这位带我操作系统比赛
-    website：killtimer0.github.io
-    image：https://killtimer0.github.io/img/avatar.png
+    description: 感谢这位带我操作系统比赛
+    website: killtimer0.github.io
+    image: https://killtimer0.github.io/img/avatar.png
 
 menu:
     main:
