@@ -61,7 +61,7 @@ links:
   - title: 同学：有一只卷毛
     description: 可惜本人不是毛茸茸的可爱:-)
     website: https://www.yuque.com/xdu_curly
-    image: https://i0.hdslb.com/bfs/face/6713bbfd1e801c0bf47b0666a00626b1a46f25f2.jpg
+    image: https://legacy.superbart.xyz/picture/Random/juanmao.jpg
   - title: 同学：Leo Lee
     description: 哇，人工智能大佬
     website: https://www.liaoxdu.top/
@@ -74,6 +74,10 @@ links:
     description: 感谢这位带我操作系统比赛
     website: https://killtimer0.github.io
     image: https://killtimer0.github.io/img/avatar.png
+  - title: 同学：aweip
+    description: 可爱的偶像大师
+    website: http://www.aweip.com
+    image: https://q1.qlogo.cn/g?b=qq&nk=1531348587&s=140&timestamp=1658286279036
 
 menu:
     main:
