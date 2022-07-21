@@ -3,7 +3,6 @@ title = "King Crimson - Islands 听后感"
 slug = "Islands Review"
 description = " 古典与爵士的融合，慵懒的感觉"
 date = "2021-02-27"
-license = "文章授权为CC-BY-SA 4.0, 引用图片版权归Robert Fripp和DGM所有"
 image = "https://legacy.superbart.xyz/picture/Islands%20Review/Cover.jpg"
 categories = [
     "Music"

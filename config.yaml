@@ -54,7 +54,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: 如果没有注明，所有文字资料，按照CC BY-SA 4.0授权，图片资料按照CC BY 4.0授权
+            default: CC BY-SA 4.0
 
     comments:
         enabled: true

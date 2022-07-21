@@ -75,7 +75,7 @@ links:
     website: https://killtimer0.github.io
     image: https://killtimer0.github.io/img/avatar.png
   - title: 同学：aweip
-    description: 可爱的偶像大师
+    description: 自述: 深夜水(xue)逼(xi)+社恐(niu)
     website: http://www.aweip.com
     image: https://q1.qlogo.cn/g?b=qq&nk=1531348587&s=140&timestamp=1658286279036
 
