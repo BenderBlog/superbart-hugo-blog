@@ -3,7 +3,7 @@ title = "archinstall 初体验 (省流文字版)"
 slug = "Experience of Archinstall"
 description = "纯命令行安装Arch Linux的时代结束了？"
 date = "2021-05-01"
-image = "https://legacy.superbart.xyz/picture/Experience%20of%20Archinstall/Cover.jpg"
+image = "https://s2.loli.net/2022/08/01/2UrIqVcRG3YiECJ.jpg"
 categories = [
     "Technology"
 ]
@@ -30,7 +30,7 @@ tags = [
 对了，archinstall是一个框架，任何会用python的人都可以用它写自己的安装脚本。  
 我们还可以添加其他的安装包，这里我安装了两个Virtualbox客户机的模块。  
 然后程序给出了一个总结，总觉得应该写成一个让人好明白的东西，而不是这个类似bash的配置文件。注意没有引导程序选择，因为只能选择systemd-boot，侧面体现其仍在开发。  
-![最后总结页面](https://legacy.superbart.xyz/picture/Experience%20of%20Archinstall/archinstall_summary.png)
+![最后总结页面](https://s2.loli.net/2022/08/01/h9Mpb6UzmPQ1nrF.png)
 最后重启后，根据我选择的GNOME环境，程序安装并配置好了，不过VBOX增强工具没有激活，需要在上述安装完成后arch-chroot一下。  
 ## 小结
 这个工具目前处于一个鸡肋的状态。
@@ -40,6 +40,7 @@ tags = [
 * 对于小白的话，根据官方安装指南安装的话，至少能对Linux系统某些基本的东西（诸如分区，网络配置，软件管理等）有一定的了解，而这个东西我觉得不太能像安装指南一样起到这样的作用吧。
 * 当然，这个安装程序可以自己写python脚本来配置。对于有定制需求的人来说，是件好事。但对于我这种有需求，但是技术不到位的人来说，就不太好了，还是走官方流程吧。
 * 对于只是拿这个装13的人来说，只要英文过关的话，还挺方便的呢（bushi
+
 当然，官方也在积极改进这个软件，希望将来能够更加好用吧。也希望成熟的那一天，纯输命令的安装方式还能存在。
 ## 推荐链接
 [Houge_Langley 采访 felixonmars](https://www.bilibili.com/video/BV1BZ4y1G7ie)  

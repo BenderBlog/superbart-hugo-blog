@@ -4,7 +4,7 @@ title = "奶油乐队个人回顾"
 slug = "Cream Band Review"
 description = "又重又迷幻的摇滚成熟期代表乐队"
 date = "2022-06-12"
-image = "https://legacy.superbart.xyz/picture/Cream%20Band%20Review/Cover.jpg"
+image = "https://s2.loli.net/2022/08/01/GOzRUgIAKfEQdu3.jpg"
 categories = [
     "Music"
 ]

@@ -3,7 +3,7 @@ title = "过年了，给大家回复弹幕，然后瞎扯两句"
 slug = "Reading Reviews"
 description = "各位过年快乐"
 date = "2021-02-12"
-image = "https://legacy.superbart.xyz/picture/Reading%20Reviews/Cover.png"
+image = "https://s2.loli.net/2022/08/01/OxMmK6yZD9vE2Xu.png"
 license = "Licensed under CC BY-ND 4.0"
 categories = [
     "Random"

@@ -3,7 +3,7 @@ title = "The Embodiment of Scarlet Devil专辑推广材料"
 slug = "Gensokyo Band Promotion File"
 description = "嘿嘿嘿，我听完了，虽然觉得可爱，也不可能是东方粉丝滴"
 date = "2021-11-05"
-image = "https://legacy.superbart.xyz/picture/Gensokyo%20Band%20Promotion%20File/Cover.jpg"
+image = "https://s2.loli.net/2022/08/01/IiZ6PgFa1C73SnX.jpg"
 categories = [
     "Music"
 ]
@@ -89,9 +89,9 @@ tags = [
 
 不过，我还是不明白她们为啥找我发行。不过我既然有b站帐号，我就给放出来了，看样子反响不错。她们也没再找我，不过他们一开始给的母带上面写着他们叫有些信息，我就根据那个，根据记忆，画了她们的样貌，希望她们还能回来，找我结帐。  
 
-![](https://legacy.superbart.xyz/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-1.jpg)
-![](https://legacy.superbart.xyz/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-2.jpg)
-![](https://legacy.superbart.xyz/picture/Gensokyo%20Band%20Promotion%20File/Gensokyo%20Band%20Mk1-3.jpg)
+![](https://s2.loli.net/2022/08/01/W6EmiNkFGl98LBI.jpg)
+![](https://s2.loli.net/2022/08/01/AGmOSclbnYzfup2.jpg)
+![](https://s2.loli.net/2022/08/01/Bu7G9LodS8vUXwJ.jpg)
 
 补充：有时多瞎想点东西，还是很好的呢:-)希望大家喜欢看这样的音乐评测，可能以后有些音乐专辑，我就引入她们的设定了233
 

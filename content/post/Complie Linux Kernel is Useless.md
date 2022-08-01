@@ -3,7 +3,7 @@ title = "自己编译 Linux 内核，好像一点用都没有？"
 slug = "Complie Linux Kernel is Useless"
 description = "同志们没事不要折腾"
 date = "2022-02-11"
-image = "https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Cover.png"
+image = "https://sm.ms/image/HuqXCyzwJA3N2kE"
 categories = [
     "Technology"
 ]
@@ -214,15 +214,15 @@ $ make LSMOD=$HOME/.config/modprobed.db localmodconfig
 我上面说过，使用 modprobed-db 的前提是对内核配置有一定了解，至少需要看到选项的时候，脑瓜不疼。(如果你是应付操作系统实验，我看[我们学校的操作系统资料](https://github.com/LevickCG/Happy-SE-in-XDU/tree/master/OS)和[小梦哥哥的实验总结](https://moefactory.com/3041.moe)的步骤，我觉得你要是在虚拟机下直接搞，应该没有问题)  
 所以，我来给大家看一下我的内核配置吧，给大家看看我改了什么。这里我用 `make nconfig` 配置。  
 第一个选项是总体选项，是包括了内核压缩，特定版本号之类的信息。请看 xmgg 的吧。  
-![默认界面](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Intro%20Config.jpg)
+![默认界面](https://s2.loli.net/2022/08/01/jwCd34vDs9EqmiV.jpg)
 这是默认界面，配置程序给了我们一些选项。下面的功能键中，F2可以查看配置选项的详细信息，F9可以搜索配置选项。  
-![处理器类型和特性](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Processor%20Config.jpg)
+![处理器类型和特性](https://s2.loli.net/2022/08/01/MsVvJqoDXEr18RQ.jpg)
 这个地方是配置处理器相关信息的。我这里把很多因特尔处理器的独家特性给删掉了，然后处理器优化强制设置为Zen 2。其他方面的有任务调度之类，我没有动，因为不懂。  
-![插入电源管理特性](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Power%20Management%20Config.jpg)
+![插入电源管理特性](https://s2.loli.net/2022/08/01/MvdYJQ4K5ANZc3D.jpg)
 这个地方配置电源管理，我开启了休眠和睡眠，然后将CPU频率调整设置为"性能"。  
-![文件系统选项](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/File%20System%20Config.jpg)
+![文件系统选项](https://s2.loli.net/2022/08/01/gVZfTyXWjeBE1s4.jpg)
 这个地方配置文件系统支持，是精简内核的重中之重，也是一个坑。如果精简过头，可能插个U盘读不出来。尤其注意CD文件系统和DOS文件系统选项。  
-![驱动配置](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Driver%20Config.jpg)
+![驱动配置](https://s2.loli.net/2022/08/01/269QYoNTSOxhRad.jpg)
 这个地方配置驱动选项，基本上编译内核，大部分时间都是在编译驱动。所以，这个地方我们可以大开杀戒。不过千万不要要把你需要用到的驱动给去了。  
 其他方面，诸如支持32位可执行程序，内核安全算法，调试选项等，我就不说啦。
 

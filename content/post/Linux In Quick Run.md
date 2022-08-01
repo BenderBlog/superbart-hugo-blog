@@ -3,7 +3,7 @@ title = "快速逃离Linux指南"
 slug = "Linux In Quick Run"
 description = "一些Linux相关的使用技巧，帮助大家用完Linux赶紧逃"
 date = "2022-01-25"
-image = "https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/Cover(Copyright%20Yumiko%20Chiba).webp"
+image = "https://s2.loli.net/2022/08/01/2qIsgFjYrfldwuh.webp"
 categories = [
     "Technology"
 ]
@@ -103,9 +103,9 @@ tags = [
 实际上前面我提到的增强工具，有一个文件互相拖拽功能，不过个人认为，超级难用。一般来说，虚拟机需要访问宿主机文件的话，我更倾向于使用共享文件夹功能。这个功能本质上，就是把宿主机的一个文件夹通过某种虚拟机内部的网络共享方式，让虚拟机访问。  
 至于怎么用，给你们一些指南，具体怎么做，请询问可爱的互联网姐姐:-)  
 
-![这个是VMWare虚拟机下，配置共享文件的方式](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/VMWareFileShare.png)
+![这个是VMWare虚拟机下，配置共享文件的方式](https://s2.loli.net/2022/08/01/3OWGPruiYC1pMLn.png)
 
-![这个是VirtualBox虚拟机下，配置共享文件的方式](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/VirtualBoxFileShare.webp)
+![这个是VirtualBox虚拟机下，配置共享文件的方式](https://s2.loli.net/2022/08/01/rH4wYkXjif5StqT.webp)
 
 设置的时候，尽量勾选上自动挂载/开机挂载，这样能省下很多的事情。  
 还有一件事，读写权限也要搞明白，我前面说不出格就没事，是因为虚拟机和宿主机本来是隔离的，现在有了一个口子互相通信了，万一你在虚拟机搞了危险操作，极有可能你那些珍贵的东西就要遭殃了。(实际上共享剪贴板也有风险，但比这个小多了)
@@ -118,9 +118,9 @@ Windows有个功能，叫系统还原。当你的电脑出现问题的时候，�
 系统快照在某种意义上，就是上面那俩的集合。它的功能，就是把虚拟机的状态(包括磁盘状态，硬盘状态)保存下来，类似于一个模板环境。然后你在虚拟机里面操作，发现系统坏了，直接拿之前的快照还原一下就行了。这比Windows的系统还原还好用呢，真的是一键还原。  
 具体怎么用，互联网姐姐比我更清楚呢，我给你们俩地图吧：
 
-![这个是VMWare虚拟机的系统快照功能](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/VMwareSnapshot.jpg)
+![这个是VMWare虚拟机的系统快照功能](https://s2.loli.net/2022/08/01/tPMENW9Ra43L8Iz.jpg)
 
-![这个是VirtualBox虚拟机的系统快照功能](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/VirtualBoxSnapshot.jpg)
+![这个是VirtualBox虚拟机的系统快照功能](https://s2.loli.net/2022/08/01/1nBe7aqPg3CmYMD.jpg)
 
 既然我们的目的是为了一个干净的环境，方便还原。我建议各位存两个快照：一个在系统安装完成之后，一个是在你干活之前。  
 对了，快照本身也是需要更新的。因为虚拟机里面的系统是需要更新的，所以干活之前的快照一定要更新。至于最干净的，系统完成之后的镜像，一般是为了在虚拟机彻底没法用的时候，搞的救命稻草。  
@@ -174,7 +174,7 @@ git config --global url."镜像网址".insteadOf https://github.com
 现在要下载啥软件，都喜欢找最近的镜像地点，加速你的下载。可就怕这玩意不好使用，你别说，我下载Eclipse IDE的时候就遇到过。  
 当然，幸运的话，镜像源都会给你备份好了。自己探索吧，我觉得没必要多说了233
 
-![页面上提供了Java(OpenJDK),AOSP(安卓系统源代码)的镜像 下面还有VLC，OBS,Wireshark,FDroid等软件的镜像](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/TsinghuaMirror.jpg)
+![页面上提供了Java(OpenJDK),AOSP(安卓系统源代码)的镜像 下面还有VLC，OBS,Wireshark,FDroid等软件的镜像](https://s2.loli.net/2022/08/01/rELAsP7vtYbHMCZ.jpg)
 
 ## 好奇怪的桌面
 
@@ -187,12 +187,12 @@ git config --global url."镜像网址".insteadOf https://github.com
 具体来说，Linux本身只是一个内核，在其上运行着很多程序，图形化界面(桌面环境)只是其中一个。  
 要细说的话，我们得扯一下历史了(欢迎大家进入工程概论睡觉模式)：  
 
-![SuperBart超级抽象画工时间2333](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/OldTimeWithTerminal.jpg)
+![SuperBart超级抽象画工时间2333](https://s2.loli.net/2022/08/01/c9p74VqHoIDUngb.jpg)
 
 上世纪七八十年代的电脑，都是需要用终端机来使用的。终端机连接到远端的主机，并进行操作。现在有些东西，还有这个的影子呢，比如你远程你买的云服务器。插一句，C语言的stdio头文件，全称叫标准输入输出(STanDard Input Output)，也是对应了这个结构。输入在当时，就是终端机的键盘，输出在当时，就是终端机的屏幕。当然现在，分别对应的是你的键盘和屏幕了。  
 Linux的图形化程序叫Xorg，也是这样的结构。这里给张图片。  
 
-![根据维基百科X协议页面画的，不一定准确](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/XStructure.jpg)
+![根据维基百科X协议页面画的，不一定准确](https://s2.loli.net/2022/08/01/uZhnsFCxlt63EOe.jpg)
 
 你看，是不是有点终端机和主机的感觉呢？前面三个负责处理一些内部事情，比如接受进程状态，检测输入之类。然后XORG服务器将绘制信号传给XORG客户端，然后经由窗口管理器之类的东西，把窗口送到你的屏幕上。他的过程比Windows那样的直接绘制要复杂一些，但是十分灵活。  
 在Linux中，有很多的桌面环境。建议大家看一下自己系统使用的桌面环境，以后出现问题的话，会很有用。下面介绍一些著名的桌面环境，以及我认为的特点:
@@ -247,7 +247,7 @@ Linux的图形化程序叫Xorg，也是这样的结构。这里给张图片。
 
 当然，听我的一家之词，肯定是不够的。建议各位上网找一下相关图片，了解一下。  
 
-![这个小恐龙比那个恶心人的辅导员恐龙好多了，我不理解为啥我们假期那么短](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/DragonOnMyDesktop.jpg)
+![这个小恐龙比那个恶心人的辅导员恐龙好多了，我不理解为啥我们假期那么短](https://s2.loli.net/2022/08/01/ezD27HTvGYwfMsR.jpg)
 
 ### 我的中文输入法呢？
 
@@ -287,12 +287,12 @@ Linux的输入法跟Windows是有区别的，Linux上的输入法是一个框架
 知道各位脑子里充满了C盘，D盘之类的。他们泾渭分明，基本上要没啥事的话，真的是鸡犬相闻，老死不相往来。但如果我告诉你，分区之间可以关系紧密，甚至成为了一棵树呢？  
 来看看这张图吧，这就是我电脑Linux的分区结构了。
 
-![手绘的更有温度，懂不懂啊](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/MyLinuxTree.jpg)
+![手绘的更有温度，懂不懂啊](https://s2.loli.net/2022/08/01/AzhmaGYnlNIpUPL.jpg)
 
 你看到了吗，任何文件都是衍生自一棵树，他的名字叫做根，他的目的也是为了耕种这些文件。这些文件在这个根的勤劳耕种下，努力地繁育系统这个大家庭……(看不懂的去看《十日谈》或者去听Genesis的Cinema Show)  
 为什么说Linux的分区不明显呢？分区是硬件上的概念，客观存在的。但是Linux中，分区之间的关系是非常紧密的。即使/usr目录在一个分区，/boot在另一个分区，/单独一个分区，但只要有/维系这棵树，他们之间的互相访问，就好像在一个分区一样，这样，分区的概念就不明显了。  
 
-![看分区的命令是sudo fdisk -l，/boot一个分区，/一个分区，还有16GB的交换空间(虚拟内存)](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/SDDPartition.jpg)
+![看分区的命令是sudo fdisk -l，/boot一个分区，/一个分区，还有16GB的交换空间(虚拟内存)](https://s2.loli.net/2022/08/01/26tu7kIwGDRHv8S.jpg)
 
 有心人注意到了，我写了一个"在内存中的文件"。这个是Linux内核把系统和硬件的信息，通过文件的形式给大家呈现了出来。这个方面，建议大家了解一下Linux/Unix下硬件映射为文件，“一切皆文件”的思想。  
 对于mac用户，你们可以打开终端，看看你们的根目录。
@@ -302,7 +302,7 @@ Linux的输入法跟Windows是有区别的，Linux上的输入法是一个框架
 在Linux中，隐藏文件的标志和Windows的不一样。只要你在文件名前面搞个`.`就行了，就这样。  
 那么，什么情况下我们会看到隐藏文件呢？来看看我的电脑吧。
 
-![左面的不显示隐藏文件，右面的显示隐藏文件](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/HiddenFileComparison.jpg)
+![左面的不显示隐藏文件，右面的显示隐藏文件](https://s2.loli.net/2022/08/01/RlKtxZCAEnBTkWd.jpg)
 
 好吧，你看到了很多的隐藏文件。这里面我先告诉你，大多数是配置文件。为啥要告诉你呢？要不然没法往下写了(尴尬)  
 Linux软件的配置文件，大多集中地放在以下目录中:
@@ -509,7 +509,7 @@ Linux的最高权限用户和Windows的管理员有很大不同。Windows的管�
 
 报错输出是查错的时候，非常有用的资源。通过阅读它，你能很快明白问题的根源，并进行针对性的上网，搜索解决方案。这里给个例子。
 
-![他想装一个软件，卡在这里了](https://legacy.superbart.xyz/picture/Linux%20In%20Quick%20Run/ProblemCheck.jpg)
+![他想装一个软件，卡在这里了](https://s2.loli.net/2022/08/01/HYOXzIBN4kWM1eU.jpg)
 
 看到那行E了吗，那个就是报错输出。他报错说，仓库没有找到Release文件。  
 这样，会修的就知道怎么修了，不会修发给别人，他也能快速帮助你。他的问题是没有完整添加软件源，导致系统不知道跑哪里下载软件安装包。
@@ -563,7 +563,7 @@ Linux的最高权限用户和Windows的管理员有很大不同。Windows的管�
 
 ## 推荐读物
 
-[提问的智慧](https://hub.fastgit.xyz/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
+[提问的智慧](https://www.github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
 [由书名号同志编写的资源搜索指南](https://lvris.com/p/resource-search/)  
 [Arch Linux Wiki](https://wiki.archlinux.org/)  
 [鸟哥的私房菜](https://www.vbird.org/)  

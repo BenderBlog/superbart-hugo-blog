@@ -3,7 +3,7 @@ title = "操作系统：线程"
 slug = "Operating System 1: Thread"
 description = "仅供参考，我不知道对不对"
 date = "2022-04-09"
-image = "https://legacy.superbart.xyz/picture/Random/Gunner%20from%20Quake%20II%20-%20modified.png"
+image = "https://s2.loli.net/2022/08/01/XwlnJjUEqyDB6WZ.png"
 categories = [
     "Technology"
 ]
@@ -56,7 +56,7 @@ int main(){
 }
 ```
 
-![Let's paint a tree, shall we?](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/PROCESS_FORK_TREE.jpg)
+![Let's paint a tree, shall we?](https://s2.loli.net/2022/08/01/8csaxz47l62pjKQ.jpg)
 
 ## 深入进程
 
@@ -123,10 +123,10 @@ By Multilevel Quene Fixed Priority scheduling algorithm, there are 3 priority qu
 
 通过多层级队列混合优先级 (Multilevel Quene Fixed Priorty) 调度算法，总共有三个优先级队列和七个进程，信息如下。画出 CPU 调度甘特图，然后根据信息填写最下面的表格。
 
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-1.png)
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-2.png)  
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-3.png)  
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/SCHEDULER_Q1-A.png)
+![](https://s2.loli.net/2022/08/01/ve12iqCUrXcMGVs.png)
+![](https://s2.loli.net/2022/08/01/eQOM1fvgwrCto2h.png)  
+![](https://s2.loli.net/2022/08/01/JQOcHP8YTVKvbpW.png)  
+![](https://s2.loli.net/2022/08/01/J6dXQD7YcPlbizB.jpg)
 
 ## 进程间通信
 
@@ -232,7 +232,7 @@ top -H -p PID # 查看该 PID 对应的线程状态
 
 阅读代码，看看有啥问题。
 
-![](https://legacy.superbart.xyz/picture/Operating%20System%201:%20Thread/IPC_Q1.png)
+![](https://s2.loli.net/2022/08/01/M7awq2niZU4m5LY.png)
 
 在单核 CPU 上：  
 

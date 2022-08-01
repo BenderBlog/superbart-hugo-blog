@@ -3,7 +3,7 @@ title = "我的字幕授权协议(兼各种我知道的授权协议介绍)"
 slug = "My License Introduction"
 description = "我不想让营销号不劳而获"
 date = "2021-08-02"
-image = "https://legacy.superbart.xyz/picture/My%20License%20Introduction/Cover.jpg"
+image = "https://s2.loli.net/2022/08/01/INzBQdJWynZbLmR.jpg"
 categories = [
     "Random"
 ]
@@ -78,6 +78,6 @@ tags = [
 这种东西呢，是作者放弃所有权利的产物。字幕方面，我是绝对不会推荐使用这个协议的。软件代码就看着办吧，我的作业代码就是公有领域的。  
 
 ## 我的协议
-好了，该把我的协议贴出来了。请点击[这个链接](/字幕授权协议)来看。  
+好了，该把我的协议贴出来了。去我网页看吧。  
 
 谢谢阅读。  
