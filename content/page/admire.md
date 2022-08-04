@@ -76,8 +76,16 @@ links:
     image: https://killtimer0.github.io/img/avatar.png
   - title: 同学：aweip
     description: 自述：深夜水(xue)逼(xi)+社恐(niu)
-    website: http://www.aweip.com
-    image: https://q1.qlogo.cn/g?b=qq&nk=1531348587&s=140&timestamp=1658286279036
+    website: https://www.aweip.com
+    image: https://cdn.aweip.com/Blog/asahi.png
+  - title: 同学：小北
+    description: 清纯的男孩子
+    website: https://www.xiaobeo.top
+    image: https://www.xiaobeo.top/img/user.jpg
+  - title: 同学：飞飞鱼
+    description: 我是来自北方的一条鱼
+    website: https://smilin9.com
+    image: https://avatars.githubusercontent.com/u/104638756?v=4
 
 menu:
     main:

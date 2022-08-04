@@ -3,7 +3,7 @@ title = "自己编译 Linux 内核，好像一点用都没有？"
 slug = "Complie Linux Kernel is Useless"
 description = "同志们没事不要折腾"
 date = "2022-02-11"
-image = "https://sm.ms/image/HuqXCyzwJA3N2kE"
+image = "https://s2.loli.net/2022/08/01/HuqXCyzwJA3N2kE.jpg"
 categories = [
     "Technology"
 ]
