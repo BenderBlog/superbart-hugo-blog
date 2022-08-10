@@ -9,7 +9,7 @@ links:
   - title: 同学：康师傅
     description: 一个向往自由的男人
     website: https://blog.ksfu.top/
-    image: https://blog.ksfu.top/img/head.ico
+    image: https://yun.ksfu.top/al1k6-517g2.webp
   - title: 同学：书名号
     description: 传说他会特效视频，还会击剑
     website: https://www.lvris.com/
