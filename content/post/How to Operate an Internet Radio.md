@@ -1,6 +1,6 @@
 +++
 title = "如何在网上开自己的电台？"
-slug = "Reading Reviews"
+slug = "How to Operate an Internet Radio"
 description = "怀旧时间到～"
 date = "2022-10-19"
 image = "https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Bart%20On%20Radio%203x13.jpg"
