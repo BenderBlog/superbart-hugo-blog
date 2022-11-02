@@ -6,6 +6,10 @@ links:
     description: 电表开发者，西电生活必须品
     website: https://www.moefactory.com
     image: https://avatars.githubusercontent.com/u/5405331?v=4
+  - title: 同学：Reverier
+    description: He use Linux and Desktop Environment in code, rather than configuration files.
+    website: https://blog.woooo.tech/
+    image: https://avatars.githubusercontent.com/u/41937333?v=4
   - title: 同学：康师傅
     description: 一个向往自由的男人
     website: https://blog.ksfu.top/
