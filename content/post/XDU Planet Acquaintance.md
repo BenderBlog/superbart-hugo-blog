@@ -2,7 +2,7 @@
 title = "XDU Planet 感想"
 slug = "XDU Planet Acquaintance"
 description = "搞完 XDU Planet 的一些想法"
-date = "2023-07-16"
+date = "2023-07-15"
 image = "http://legacy.superbart.xyz/picture/Random/adwaita-d.webp"
 categories = [
     "Technology"
@@ -13,6 +13,7 @@ tags = [
     "编程",
 ]
 +++
+
 
 ## 这个项目的由来
 事情从我看同学博客说起。我感觉把我同学的博客都聚合到一起看，看起来更方便，而且还能满足我一直想当“干新闻的”想法。毕竟，我在校内开过一段时间电台，天天报新闻()
@@ -59,7 +60,7 @@ tags = [
 
 基本上 API 就算这样了，我这里写出来。
 
-```
+```json
 GET /xduplanet.php
 
 {
@@ -74,7 +75,7 @@ GET /xduplanet.php
 }
 ```
 
-```
+```json
 GET /xduplanet.php?feed=key
 其中 key 是上述提到的后面查询使用的 key
 
@@ -92,7 +93,7 @@ GET /xduplanet.php?feed=key
 }
 ```
 
-```
+```json
 GET /xduplanet.php?feed=key&p=0
 其中 key 是上述提到的后面查询使用的 key，p 指上面文章列表中第几个文章
 
