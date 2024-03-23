@@ -1,4 +1,12 @@
-+++ title = "Traintime PDA v1.1.0 版本发行概要" slug = "Traintime PDA v0.4.1 Release Note" description = "Traintime PDA 大回顾" date = "2024-03-23" image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg" categories = [ "Technology" ] tags = [ "Flutter", "编程", ] +++
++++
+title = "Traintime PDA v1.1.0 版本发行概要"
+slug = "Traintime PDA v1.1.0 Release Note"
+description = "Traintime PDA 大回顾"
+date = "2024-03-23"
+image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg"
+categories = [ "Technology" ]
+tags = [ "Flutter", "编程", ]
++++
 
 Traintime PDA v0.4.6 和 v1.0.0 差别只有桌面小部件；而 v1.1.0 和 v1.0.0 除了日程表的差别，就是为了新学期必将出现的流汗黄豆瞬间而做了一部分修改。
 
