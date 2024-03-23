@@ -1,4 +1,4 @@
-baseurl: https://www.superbart.xyz
+baseurl: https://www.superbart.top
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -30,7 +30,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: https://legacy.superbart.xyz/favicon.ico
+    favicon: https://legacy.superbart.top/favicon.ico
 
     footer:
         since: 2021
@@ -62,7 +62,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL: https://comments.superbart.xyz/
+            serverURL: https://comments.superbart.top/
             lang:
             visitor: false
             emoji:
@@ -149,7 +149,7 @@ menu:
 
         - identifier: older
           name: Old Blog
-          url: https://legacy.superbart.xyz
+          url: https://legacy.superbart.top
           weight: -100
           params:
               icon: link

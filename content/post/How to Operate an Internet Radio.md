@@ -3,7 +3,7 @@ title = "如何在网上开自己的电台？"
 slug = "How to Operate an Internet Radio"
 description = "怀旧时间到～"
 date = "2022-10-19"
-image = "https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Bart%20On%20Radio%203x13.jpg"
+image = "https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/Bart%20On%20Radio%203x13.jpg"
 categories = [
     "Technology"
 ]
@@ -98,7 +98,7 @@ $ sudo systemctl enable icecast2 # 如果你想让这玩意开机自启动的话
 
 现在你打开你的服务器网站的 8000 端口的话，你应该能看到这个。我这里是开电台了，所以有东西，应该是啥都没有才对。
 
-![](https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Icecast.png)
+![](https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/Icecast.png)
 
 ## 电台推流软件三例
 
@@ -118,7 +118,7 @@ $ sudo systemctl enable icecast2 # 如果你想让这玩意开机自启动的话
 
 3. 下面的音频比特率填个合适的，比如 192kbps 之类，想起了下载 MP3 年代了吗？
 
-![OBS 设置一个例子](https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/OBS-REFRENCE.png)
+![OBS 设置一个例子](https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/OBS-REFRENCE.png)
 
 然后点击 "开始录制"，vola，你现在开始广播了！当然，画面是传不过去了，不过调整一下声音配置，你的声音开始传播了。
 
@@ -128,15 +128,15 @@ Mixxx 是一个 DJ 软件，他能混音各种各样的音乐，也能按照顺�
 
 首先，你最好有个歌库啥的，也就是说，你的电脑得有一堆歌曲文件。这玩意下载也没那么难吧，随便开个网易云，腾讯啥的，一堆可以下载。把他们放在一起，然后在软件设置里面规定好歌库位置。等待然后在音轨选项里面全选之，右键选择"放到自动DJ"。打开自动DJ界面，点击启用自动Dj按钮，好了，广播台现在能循环你的歌单了。歌单还能随机播放哦。
 
-![Mixxx 界面概览](https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Main.png)
+![Mixxx 界面概览](https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Main.png)
 
 如果你想增加个麦克风的话，你可以在设置里面添加之。这个东西还能添加应用程序作为输入源呢，不过需要搞啥回环声音设备之类，我觉得很不好用，应该有更好的解决方案吧。
 
-![设置输入设备](https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Microphone.png)
+![设置输入设备](https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Microphone.png)
 
 最后，就是规定你的广播地址了。这个看截图应该更明白吧......
 
-![设置广播例子](https://legacy.superbart.xyz/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Broadcast.png)
+![设置广播例子](https://legacy.superbart.top/picture/How%20to%20Operate%20an%20Internet%20Radio/Mixxx-Broadcast.png)
 
 好了，开启你的自动DJ功能，合适时候开下麦克风，Let's on air!
 

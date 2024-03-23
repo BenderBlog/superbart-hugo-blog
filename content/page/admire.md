@@ -65,7 +65,7 @@ links:
   - title: 同学：有一只卷毛
     description: 可惜本人不是毛茸茸的可爱:-)
     website: https://www.yuque.com/xdu_curly
-    image: https://legacy.superbart.xyz/picture/Random/juanmao.jpg
+    image: https://legacy.superbart.top/picture/Random/juanmao.jpg
   - title: 同学：Leo Lee
     description: 哇，人工智能大佬
     website: https://www.liaoxdu.top/

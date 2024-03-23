@@ -3,7 +3,7 @@ title = "XDU Planet 感想"
 slug = "XDU Planet Acquaintance"
 description = "搞完 XDU Planet 的一些想法"
 date = "2023-07-15"
-image = "http://legacy.superbart.xyz/picture/Random/adwaita-d.webp"
+image = "http://legacy.superbart.top/picture/Random/adwaita-d.webp"
 categories = [
     "Technology"
 ]
@@ -67,9 +67,9 @@ GET /xduplanet.php
   "repos": {
     "benderblog": {         // key: 该对象名称，后面查询使用
       "name": "SuperBart/Benderblog ~ 开发者",     // 显示名称
-      "website": "https://www.superbart.xyz",     // 博客网站
-      "feed": "https://www.superbart.xyz/index.xml",    // RSS 或 ATOM 源头
-      "favicon": "https://legacy.superbart.xyz/favicon.ico" // 图标
+      "website": "https://www.superbart.top",     // 博客网站
+      "feed": "https://www.superbart.top/index.xml",    // RSS 或 ATOM 源头
+      "favicon": "https://legacy.superbart.top/favicon.ico" // 图标
     },
   }
 }
@@ -85,7 +85,7 @@ GET /xduplanet.php?feed=key
     {
       "title": "Flutter 介绍",
       "time": "2023-04-29T08:00:00+08:00",
-      "url": "https://www.superbart.xyz/p/flutter-introduction.html"
+      "url": "https://www.superbart.top/p/flutter-introduction.html"
     },
   ],
   // lastUpdateDate：本数据的获取时间，为将来备
@@ -101,7 +101,7 @@ GET /xduplanet.php?feed=key&p=0
 // 注意内容是和前面所述老网站网页输出是一样的，也就是图片，视频等会被隐藏掉
 {
   "title": "Flutter 介绍",
-  "link": "https://www.superbart.xyz/p/flutter-introduction.html",
+  "link": "https://www.superbart.top/p/flutter-introduction.html",
   "time": 1682726400,
   "content": "Omit here."
 }

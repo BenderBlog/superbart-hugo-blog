@@ -3,7 +3,7 @@ title = "Vala 介绍"
 slug = "Vala Introduction"
 description = "介绍 Vala 语言，学完了也没啥用的语言"
 date = "2022-12-20"
-image = "http://legacy.superbart.xyz/picture/Random/adwaita-d.webp"
+image = "http://legacy.superbart.top/picture/Random/adwaita-d.webp"
 categories = [
     "Technology"
 ]

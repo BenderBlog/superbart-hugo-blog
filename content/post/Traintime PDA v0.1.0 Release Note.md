@@ -3,7 +3,7 @@ title = "Traintime PDA v0.1.0 发行简记"
 slug = "Traintime PDA v0.1.0 Release Note"
 description = "Traintime PDA v0.1.0 的介绍和技术相关"
 date = "2023-07-29"
-image = "https://legacy.superbart.xyz/picture/xdyou/homepage.jpg"
+image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg"
 categories = [
     "Technology"
 ]
@@ -23,31 +23,31 @@ v0.1.0 可以算是这个软件第一个稳定版本，我自然需要花上一�
 ## 功能介绍
 
 1. 根据Timetable重写的 Flutter 课程表，这个课程表我尽力模仿这个插件，解决课程冲突，还能添加一张背景图片，能挂着你喜欢的 idol 之类()
-![课程表页面](https://legacy.superbart.xyz/picture/xdyou/classtable.jpg)
+![课程表页面](https://legacy.superbart.top/picture/xdyou/classtable.jpg)
 2. 体育查询，打卡记录和体测成绩。
-![体育查询页面](https://legacy.superbart.xyz/picture/xdyou/sport.jpg)
+![体育查询页面](https://legacy.superbart.top/picture/xdyou/sport.jpg)
 3. 成绩查询，包括可以自行选择科目计算均分。计算均分功能看来同学们十分喜欢使用，但我是大摆子(逃)
-![成绩计算](https://legacy.superbart.xyz/picture/xdyou/score.jpg)
+![成绩计算](https://legacy.superbart.top/picture/xdyou/score.jpg)
 4. 自行选择学期的考试安排查询，自行选择学期功能是疫情的后遗症。
-![考试查询](https://legacy.superbart.xyz/picture/xdyou/exam.jpg)
+![考试查询](https://legacy.superbart.top/picture/xdyou/exam.jpg)
 5. 电量查询和欠费查询，这个功能只是在首页上的卡片。
 6. 校园卡流水查询和(如果有的话)校园卡余额查询。    
    (显示余额功能我考虑到手机支付十分广泛，首页就不显示了)
-  ![流水查询](https://legacy.superbart.xyz/picture/xdyou/school.card.record.jpg) 
+  ![流水查询](https://legacy.superbart.top/picture/xdyou/school.card.record.jpg) 
 7. 图书馆信息查询，个人借书状况和学校书库状况。    
    (扫码借书，扫码转借功能担心风险，尚未支持)
-  ![图书馆信息](https://legacy.superbart.xyz/picture/xdyou/library.png)
+  ![图书馆信息](https://legacy.superbart.top/picture/xdyou/library.png)
 8. 西电目录，曾经在疫情封校期间运行的学校综合楼目录 + 食堂目录。
-  ![西电目录](https://legacy.superbart.xyz/picture/xdyou/xddir.jpg)
+  ![西电目录](https://legacy.superbart.top/picture/xdyou/xddir.jpg)
 9. XDU Planet：查看同学的博客，富含先辈的恩情（学习资料），另该功能代行转发学校教务处通知。
-  ![XDU Planet](https://legacy.superbart.xyz/picture/xdyou/xduplanet.jpg)
+  ![XDU Planet](https://legacy.superbart.top/picture/xdyou/xduplanet.jpg)
 
 ## 关于相比电表的优势
 
 我的程序打不过电表，这是肯定的。但我可以说出几点我的软件优势。
 
  - 我的程序使用 Flutter 开发，天生能适应 iOS 和 Android 两个移动端，使用范围肯定更广。我已经为 iOS 和 Android 都编译了目标端，在双端的运行效率都很流畅。
- - 我的程序代码完全开源，而且结构清晰明了。我给我的程序编写了[架构图介绍](https://legacy.superbart.xyz/writing/XDYou%20SAD.html)。这么做，可以保证别人可以阅读我的代码，然后修改代码，诞生他们学校的学生信息查看应用。而且我确信，这个是最能在开发者方面，保障用户隐私的最好方式。
+ - 我的程序代码完全开源，而且结构清晰明了。我给我的程序编写了[架构图介绍](https://legacy.superbart.top/writing/XDYou%20SAD.html)。这么做，可以保证别人可以阅读我的代码，然后修改代码，诞生他们学校的学生信息查看应用。而且我确信，这个是最能在开发者方面，保障用户隐私的最好方式。
  - 我的程序一定程度上适配了横屏，平板使用体验应该更好。看看上面图书馆的图片就能看出来了。
  - 我的程序很不正经。首先，开发者很不正经，而且保守的不得了；其次，程序里充满了彩蛋，甚至，我的字很好看(不是)。
 
@@ -467,7 +467,7 @@ bool isPhone(context) => MediaQuery.of(context).size.width < 480;
 
 先给大家看看这玩意到底是个啥东西：
 
-![](https://legacy.superbart.xyz/picture/xdyou/both.side.sheet.gif)
+![](https://legacy.superbart.top/picture/xdyou/both.side.sheet.gif)
 
 如你所见，在竖屏的时候，他是从底往上呼出的，跟 [BottomSheet](https://m3.material.io/components/bottom-sheets/guidelines) 一样；在横屏的时候，他是从右向左呼出的，和 [SideSheet](https://m3.material.io/components/side-sheets/overview) 一样。
 

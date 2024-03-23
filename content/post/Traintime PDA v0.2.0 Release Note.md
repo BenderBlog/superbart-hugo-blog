@@ -3,7 +3,7 @@ title = "Traintime PDA v0.2.0 发行简记"
 slug = "Traintime PDA v0.2.0 Release Note"
 description = "Traintime PDA v0.2.0 的介绍和技术相关"
 date = "2023-08-16"
-image = "https://legacy.superbart.xyz/picture/xdyou/homepage.jpg"
+image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg"
 categories = [
     "Technology"
 ]
@@ -48,7 +48,7 @@ tags = [
 
 ## 关于技术相关
 
-点击这个可以查看[v0.1.0 的技术相关](https://superbart.xyz/p/traintime-pda-v0.1.0-release-note.html)。
+点击这个可以查看[v0.1.0 的技术相关](https://superbart.top/p/traintime-pda-v0.1.0-release-note.html)。
 
 ### Webview Cookie 相关
 

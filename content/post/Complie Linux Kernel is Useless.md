@@ -169,7 +169,7 @@ $ make xconfig # 图形化界面配置(使用 QT )
 ```
 >**注意**: 很多教程是用make config配置内核，本人不推荐。界面太原始就算了，在 Arch Wiki 上面被标记为"被 nconfig 取代"
 
-![nconfig长这样](https://legacy.superbart.xyz/picture/Compile%20Linux%20Kernel%20is%20Useless/Power%20Preformance.jpg)
+![nconfig长这样](https://legacy.superbart.top/picture/Compile%20Linux%20Kernel%20is%20Useless/Power%20Preformance.jpg)
 
 4. 使用 `make -j$n` 命令编译，这里 `$n` 代表你电脑/虚拟机的核心数。
 5. 使用以下两个命令来安装内核：

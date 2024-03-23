@@ -3,7 +3,7 @@ title = "Flutter 介绍"
 slug = "Flutter Introduction"
 description = "介绍 Flutter ，被 React Native 罩住的玩意"
 date = "2023-04-29"
-image = "https://legacy.superbart.xyz/picture/Flutter%20Introduction/Maggie's%20Butterfly%20Longest%20Daycard%20Short.jpg"
+image = "https://legacy.superbart.top/picture/Flutter%20Introduction/Maggie's%20Butterfly%20Longest%20Daycard%20Short.jpg"
 categories = [
     "Technology"
 ]

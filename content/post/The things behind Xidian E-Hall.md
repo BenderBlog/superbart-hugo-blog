@@ -3,7 +3,7 @@ title = "关于西电一站式服务大厅背后的那点事"
 slug = "The things behind Xidian E-Hall"
 description = "为啥我看不了我成绩的组成？"
 date = "2022-08-31"
-image = "https://legacy.superbart.xyz/picture/Random/Coding%20to%20a%20cure%20girl.jpg"
+image = "https://legacy.superbart.top/picture/Random/Coding%20to%20a%20cure%20girl.jpg"
 categories = [
     "Technology"
 ]

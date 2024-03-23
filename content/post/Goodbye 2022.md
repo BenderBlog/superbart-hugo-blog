@@ -3,7 +3,7 @@ title = "我在 2022 年学到了什么"
 slug = "Goodbye 2022"
 description = "回见了您，2022"
 date = "2022-12-31"
-image = "https://legacy.superbart.xyz/picture/Random/Cirno-Easter%20Egg.png"
+image = "https://legacy.superbart.top/picture/Random/Cirno-Easter%20Egg.png"
 categories = [
     "Technology"
 ]
@@ -125,7 +125,7 @@ int main()
 
 ### 截图~主机网络管理器
 
-![](https://legacy.superbart.xyz/picture/Random/VirtualBox-1.png)
+![](https://legacy.superbart.top/picture/Random/VirtualBox-1.png)
 
 如果设置成功的话，你的宿主机应该可以 ping 到你的虚拟机。查看你电脑的 ip，可以执行 `ifconfig` 或者 `ip a`。
 

@@ -3,7 +3,7 @@ title = "Traintime PDA v0.4.1 发行简记"
 slug = "Traintime PDA v0.4.1 Release Note"
 description = "Traintime PDA 0.4.1 的介绍和技术相关"
 date = "2023-11-02"
-image = "https://legacy.superbart.xyz/picture/xdyou/homepage.jpg"
+image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg"
 categories = [
     "Technology"
 ]
@@ -84,9 +84,9 @@ String get iCalenderStr {
 
 我一开始使用了 `file_picker` 插件，打算让用户先选个文件夹，然后将文件保存了。结果我测试，全都崩溃了。根据反馈，是在插件的原生端获取到用户选择的目录后，返回给 Flutter 端的时候崩溃的，真够无语的。
 
-![堆栈信息](https://legacy.superbart.xyz/picture/xdyou/file_picker_crash_1.png)
+![堆栈信息](https://legacy.superbart.top/picture/xdyou/file_picker_crash_1.png)
 
-![具体到库代码](https://legacy.superbart.xyz/picture/xdyou/file_picker_crash_2.png)
+![具体到库代码](https://legacy.superbart.top/picture/xdyou/file_picker_crash_2.png)
 
 正好我的开发时候大量依赖用户的网络交互记录反馈，这是依靠 `Alice` 插件实现的。我去读了 Alice 的代码，发现他使用了很多 `share_plus` 库，然后我的保存功能就使用了这个。
 

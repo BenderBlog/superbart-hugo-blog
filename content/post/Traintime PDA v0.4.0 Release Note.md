@@ -3,7 +3,7 @@ title = "Traintime PDA v0.4.0 发行简记"
 slug = "Traintime PDA v0.4.0 Release Note"
 description = "Traintime PDA 0.4.0 的介绍和技术相关"
 date = "2023-10-01"
-image = "https://legacy.superbart.xyz/picture/xdyou/homepage.jpg"
+image = "https://legacy.superbart.top/picture/xdyou/homepage.jpg"
 categories = [
     "Technology"
 ]
@@ -141,7 +141,7 @@ Go 版本的 XDU Planet，本质上就是 RSS 处理转 json，然后用 gin 开
 
 这个玩意主要用到了 XCode 的界面设计工具。长这样：
 
-![](https://legacy.superbart.xyz/picture/xdyou/XDYou_XCode_LaunchImage.png)
+![](https://legacy.superbart.top/picture/xdyou/XDYou_XCode_LaunchImage.png)
 
 Apple Store 上架需要程序有个开屏图，我于是找个人画个漫画。画家顺便画个手绘板的图标，风格对应了。
 
