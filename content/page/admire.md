@@ -90,7 +90,11 @@ links:
     description: 我是来自北方的一条鱼
     website: https://smilin9.com
     image: https://avatars.githubusercontent.com/u/104638756?v=4
-
+  - title: 网友：issacl
+    description: 一位文学家，科技自媒体，以及更加复杂的成分
+    website: https://www.issacl.top/
+    image: https://avatars.githubusercontent.com/u/111422624?v=4
+    
 menu:
     main:
         weight: -70
