@@ -1,11 +1,11 @@
 +++
 title = "cmcalc 开发日志 1"
-slug = "cmcalc log 1"
+slug = "cmcalc Develop Log 1"
 description = "数学表达式处理器和计算机代数系统，回忆计算机积分算法，交叉编译"
 date = "2024-07-14"
-image = "[https://legacy.superbart.top/picture/xdyou/homepage.jpg](https://legacy.superbart.top/picture/Random/Coding%20to%20a%20cure%20girl.jpg)"
+image = "https://legacy.superbart.top/picture/Random/Coding%20to%20a%20cure%20girl.jpg"
 categories = [ "Technology" ]
-tags = [ "Flutter", "Rust", "NDK", "编程", ]
+tags = [ "Flutter", "编译原理", "交叉编译", "编程", ]
 +++
 
 在我醉酒三次之后，今天好歹搓出来一个 Flutter-Rust 的计算器。总结下一些东西吧。
